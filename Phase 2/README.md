@@ -5,20 +5,19 @@ You’ll learn how to preprocess, train, evaluate, and deploy ML models while un
 
 ## Machine Learning (Scikit-learn)
 1. Supervised ML
-    - Linear Regression
-    - Logistic Regression
-    - Decision Trees & Random Forests
+    - Linear Regression -- Linear_Regression.ipynb
+    - Logistic Regression classification -- Logistic_Regression.ipynb
+    - Decision Trees & Random Forests -- Decision_Trees_Random_Forests.ipynb
 2. Unsupervised ML
-    - Clustering (K-Means, Hierarchical)
-    - Dimensionality Reduction (PCA)
-
-3. Model Evaluation Metrics
+    - Clustering (K-Means, Hierarchical) -- Clustering.ipynb
+    - Dimensionality Reduction (PCA) -- PCA.ipynb
+3. Model Evaluation Metrics -- Model_Evaluation.ipynb
     - Accuracy, Precision, Recall
     - ROC Curve, AUC
     - Cross-validation and Hyperparameter Tuning
 
 ## Deep Learning (TensorFlow / PyTorch)
-1. Artificial Neural Networks (ANN)
+1. Artificial Neural Networks (ANN) -- ANN.ipynb
     - Forward pass, Backpropagation
 2. Convolutional Neural Networks (CNN)
     - Image classification basics
@@ -41,4 +40,4 @@ You’ll learn how to preprocess, train, evaluate, and deploy ML models while un
     - Concepts: OLAP vs OLTP
     - Tools: Amazon Redshift, Google BigQuery Snowflake
     - Schema design: Star vs Snowflake schema
-    
+
