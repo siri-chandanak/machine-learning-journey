@@ -5,36 +5,36 @@ This phase focuses on building a strong foundation in programming, mathematics, 
 1. Python 3.x (Anaconda distribution recommended)
 2. Jupyter Notebook or any IDE (VSCode, PyCharm)
 
-## Python Core
+## Python Core -- PythonCore.ipynb
 1. Variables, data types, input/output
 2. Data structures: list, dict, set, tuple
 3. Loops & conditionals
 4. Functions (with arguments, return values)
 5. Error handling (try-except)
 
-## Python OOP + Libraries
+## Python OOP + Libraries -- PythonOOPS.ipynb
 1. Classes & Objects
 2. Inheritance, Polymorphism, Encapsulation
 3. File handling (with open)
 4. Libraries: NumPy (arrays, operations), Pandas (DataFrames), Matplotlib & Seaborn (visualization)
 
-## Math Foundations (Linear Algebra)
+## Math Foundations (Linear Algebra) -- LinearAlgebra.ipynb
 1. Scalars, vectors, matrices
 2. Matrix operations (addition, multiplication, transpose)
 3. Dot product, eigenvalues, eigenvectors
 
-## Math Foundations (Probability & Statistics)
+## Math Foundations (Probability & Statistics) -- ProbabilityStatistics.ipynb
 1. Mean, median, variance, standard deviation
 2. Probability distributions (Normal, Binomial, Poisson)
 3. Bayes’ theorem basics
 
-## Math Foundations (Calculus)
+## Math Foundations (Calculus) -- Calculus.ipynb
 1. Functions, limits
 2. Derivatives & gradients
 3. Partial derivatives (multivariable functions)
 4. Gradient descent basics
 
-## Databases (SQL + NoSQL)
+## Databases (SQL + NoSQL) -- Databases.ipynb
 1. SQL basics: SELECT, WHERE, GROUP BY, JOIN
 2. Subqueries
 3. Normalization basics
