@@ -1,5 +1,3 @@
-# Dockerfile
-
 # Use an official Python base image
 FROM python:3.10-slim
 
@@ -9,9 +7,10 @@ WORKDIR /app
 # Copy files into container
 COPY app.py .
 COPY model.pkl .
+COPY requirements.txt .
 
 # Install dependencies
-RUN pip install flask joblib numpy
+RUN pip install -r requirements.txt
 
 # Expose port 5000
 EXPOSE 5000
